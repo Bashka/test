@@ -1,6 +1,0 @@
-host='pi'
-path='/var/www/test'
-
-[deploy]
-git checkout master
-git pull
